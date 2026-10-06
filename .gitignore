@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# created by the app when you log a game
+game_log.csv
+
+.vscode/
+Thumbs.db
+desktop.ini
+~$*.pptx
